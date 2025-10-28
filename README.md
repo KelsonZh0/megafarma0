@@ -82,4 +82,4 @@ Mais informações: <https://quarkus.io/guides/maven-tooling>
 
 ---
 
-Projeto acadêmico - FIAP | Engenharia de Software
+Projeto acadêmico - FIAP |
